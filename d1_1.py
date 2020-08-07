@@ -1,17 +1,19 @@
-# a=50
-# b=2
-# c=a+b
+"""
+a=50
+b=2
+c=a+b
 
-# print("Result",c)
+print("Result",c)
 
-#creating Filesudo apt install python3-pip
+creating Filesudo apt install python3-pip
 
-# file_object= open("spy2.txt",'w')
-# file_object.write ("welcome to FS in Python by Gaurav2")
+file_object= open("spy2.txt",'w')
+file_object.write ("welcome to FS in Python by Gaurav2")
 
-# list_line=["\nHellow2\n","welcome are2\n","Here2\n"]
+list_line=["\nHellow2\n","welcome are2\n","Here2\n"]
 
-# file_object.writelines(list_line)
+file_object.writelines(list_line)	
+"""
 
 
 
