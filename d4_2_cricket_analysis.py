@@ -33,8 +33,10 @@ for i in tr_list:
 			dics[df.columns[k]]=row[k]
 		df=df.append(dics,ignore_index=True)
 	except:
-		df=pd.DataFrame(columns=colunm_l)
+		
 		file_name=heading_l[n]
+		df.to_csv('//home//gaurav//Documents//cricket'+file_name+'.csv', index=False)
+		df=pd.DataFrame(columns=colunm_l)
 		n+=1
-	df.to_csv('//home//gaurav//Documents//cricket'+file_name+'.csv', index=False)
+	
 print("Done")
