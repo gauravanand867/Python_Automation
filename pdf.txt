@@ -1,0 +1,62 @@
+Schedule of video release for Automate with 
+
+Python. 
+
+Date 
+
+Time 
+
+Projects 
+
+1st August, 2020  3:00 p.m.  1. Python Basics. 
+
+3rd August, 
+2020 
+
+6th August, 
+2020 
+
+9th August, 
+2020 
+
+11th August, 
+2020 
+
+2. ​Manipulating files and folders 
+3. ​Playing with PDFs​. 
+
+3:00 p.m.  1. Auto Wifi connect bot. 
+
+2. Automatic FB login bot. 
+3. ​FB Birthday bot. 
+
+3:00 p.m.  1. Facebook friend list Scrapper. 
+
+2. ​YouTube Playlist generator. 
+3. Covid-19 Daily Dataset creation bot. 
+
+4. Instagram Photo Downloader. 
+
+3:00 p.m.  1. Data Visualization with Python. 
+
+3:00 p.m.  1. Email checker (to check how many 
+
+new emails came in the past 24 hours or 
+7 day and so on). 
+
+2. Twitter Scraper to get trending tweets. 
+3. ​News Scraper. 
+4. Pdf to text converter bot. 
+
+14th August, 
+202 
+
+3:00 p.m.  1. Future Ahead. 
+
+2. LinkedIn Scraper. 
+3. ​Online Shopping ​Price Comparison 
+Bot. 
+
+ 
+
+
